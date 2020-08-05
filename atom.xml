@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imrbobobo.github.io/"/>
-  <updated>2020-07-21T16:03:05.860Z</updated>
+  <updated>2020-08-05T15:18:50.211Z</updated>
   <id>https://imrbobobo.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://imrbobobo.github.io/2020/072163785.html"/>
     <id>https://imrbobobo.github.io/2020/072163785.html</id>
     <published>2020-07-21T06:13:03.000Z</published>
-    <updated>2020-07-21T16:03:05.860Z</updated>
+    <updated>2020-08-05T15:18:50.211Z</updated>
     
     <summary type="html">
     
@@ -29,12 +29,14 @@
       
         
         
-          &lt;h1 id=&quot;搭建博客的全过程&quot;&gt;&lt;a href=&quot;#搭建博客的全过程&quot; class=&quot;headerlink&quot; title=&quot;搭建博客的全过程&quot;&gt;&lt;/a&gt;搭建博客的全过程&lt;/h1&gt;&lt;h2 id=&quot;1-起因&quot;&gt;&lt;a href=&quot;#1-起因&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;1-起因&quot;&gt;&lt;a href=&quot;#1-起因&quot; class=&quot;headerlink&quot; title=&quot;1.起因&quot;&gt;&lt;/a&gt;1.起因&lt;/h2&gt;&lt;h3 id=&quot;对新鲜事物的好奇&quot;&gt;&lt;a href=&quot;#对新鲜事物的好奇&quot; class=&quot;headerlink&quot;
         
       
     
     </summary>
     
+    
+      <category term="new field" scheme="https://imrbobobo.github.io/categories/new-field/"/>
     
     
       <category term="感想" scheme="https://imrbobobo.github.io/tags/%E6%84%9F%E6%83%B3/"/>
@@ -46,7 +48,7 @@
     <link href="https://imrbobobo.github.io/2020/071916107.html"/>
     <id>https://imrbobobo.github.io/2020/071916107.html</id>
     <published>2020-07-19T08:31:02.749Z</published>
-    <updated>2020-07-19T10:47:54.980Z</updated>
+    <updated>2020-08-05T15:19:39.462Z</updated>
     
     <summary type="html">
     
@@ -54,13 +56,15 @@
       
         
         
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is my very first post. Check &lt;a
         
       
     
     </summary>
     
     
+    
+      <category term="Test" scheme="https://imrbobobo.github.io/tags/Test/"/>
     
   </entry>
   

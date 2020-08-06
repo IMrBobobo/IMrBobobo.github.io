@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://imrbobobo.github.io/"/>
-  <updated>2020-08-05T15:18:50.211Z</updated>
+  <updated>2020-08-06T04:52:23.361Z</updated>
   <id>https://imrbobobo.github.io/</id>
   
   <author>
@@ -17,11 +17,38 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Markdown语法学习</title>
+    <link href="https://imrbobobo.github.io/2020/08053969.html"/>
+    <id>https://imrbobobo.github.io/2020/08053969.html</id>
+    <published>2020-08-05T13:44:00.000Z</published>
+    <updated>2020-08-06T04:52:23.361Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;前言（基本摘自菜鸟教程）&quot;&gt;&lt;a href=&quot;#前言（基本摘自菜鸟教程）&quot; class=&quot;headerlink&quot; title=&quot;前言（基本摘自菜鸟教程）&quot;&gt;&lt;/a&gt;前言（基本摘自菜鸟教程）&lt;/h1&gt;&lt;p&gt;Markdown
+        
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="https://imrbobobo.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Markdown" scheme="https://imrbobobo.github.io/tags/Markdown/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的第一篇博客</title>
     <link href="https://imrbobobo.github.io/2020/072163785.html"/>
     <id>https://imrbobobo.github.io/2020/072163785.html</id>
     <published>2020-07-21T06:13:03.000Z</published>
-    <updated>2020-08-05T15:18:50.211Z</updated>
+    <updated>2020-08-06T05:12:22.463Z</updated>
     
     <summary type="html">
     
